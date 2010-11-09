@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'motiondetection' target in the 'motiondetection' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
